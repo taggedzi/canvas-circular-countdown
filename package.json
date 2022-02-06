@@ -1,6 +1,6 @@
 {
   "name": "canvas-circular-countdown",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "Draw a configurable circular canvas countdown timer",
   "main": "dist/CanvasCircularCountdown.umd.min.js",
   "module": "dist/CanvasCircularCountdown.esm.min.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/georapbox/canvas-circular-countdown.git"
+    "url": "git+https://github.com/taggedzi/canvas-circular-countdown.git"
   },
   "keywords": [
     "html5-canvas",
@@ -25,12 +25,12 @@
     "countdown-timer",
     "circularprogressbar"
   ],
-  "author": "George Raptis <georapbox@gmail.com>",
+  "author": "Matthew Craig",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/georapbox/canvas-circular-countdown/issues"
+    "url": "https://github.com/taggedzi/canvas-circular-countdown/issues"
   },
-  "homepage": "https://github.com/georapbox/canvas-circular-countdown#readme",
+  "homepage": "https://github.com/taggedzi/canvas-circular-countdown#readme",
   "devDependencies": {
     "@babel/core": "~7.12.3",
     "@babel/plugin-proposal-object-rest-spread": "~7.12.1",
